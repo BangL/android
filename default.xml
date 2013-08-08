@@ -320,7 +320,6 @@
   <project path="packages/apps/Nfc" name="BangL/android_packages_apps_Nfc" remote="private" />
   <project path="packages/apps/OneTimeInitializer" name="CyanogenMod/android_packages_apps_OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="BangL/android_packages_apps_PackageInstaller" remote="private" />
-  <project path="packages/apps/PermissionsManager" name="BangL/android_packages_apps_PermissionsManager" remote="private" />
   <project path="packages/apps/Phone" name="BangL/android_packages_apps_Phone" remote="private" />
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
